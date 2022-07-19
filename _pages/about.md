@@ -20,5 +20,3 @@ social: true  # includes social icons at the bottom of the page
 Welcome to my Homepage! I am a PhD student at the [Nanostructured Energy Systems Laboratory](https://mae.ufl.edu/neslabs/index.html) at **University of Florida**. I am currently developing thermal management solutions for multi-scale energy systems including microelectronic chips, laser and defense equipment, and data centers. My current research focuses on deciphering the physics of pool boiling crisis, also known as Critical Heat Flux (CHF) limit.
 
 I am interested in phase change transport phenomena, heat and mass transport at interfaces, and surface engineering. I am beginning to tinker with Machine learning.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
