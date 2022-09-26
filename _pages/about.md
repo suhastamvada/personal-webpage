@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  - Blaise pascal
+subtitle:  <a href='#'>Random quote</a>
 
 profile:
   align: left
