@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: *I have made this longer than usual because I have not had time to make it shorter.* - Blaise pascal
 
 profile:
   align: right
