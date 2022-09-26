@@ -5,7 +5,7 @@ permalink: /
 subtitle: *I have made this longer than usual because I have not had time to make it shorter* - Blaise Pascal
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   address: >
     <p>103 MAE-A</p>
