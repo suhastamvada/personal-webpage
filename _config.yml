@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Suhas
 middle_name: R.
 last_name: Tamvada
-email: suhastamvada@icloud.com
+email: stamvada@ufl.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my homepage!
 footer_text: >
@@ -53,12 +53,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: suhastamvada # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+linkedin_username: suhastamvada # your LinkedIn user name
+scholar_userid: oQHSsp4AAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-4250-5571 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -71,9 +71,9 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is through my email.
 
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics: G-DZ9LMRBFPF # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
@@ -82,9 +82,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Suhas Notes # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Notes # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: A place for my short notes or thoughts
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -201,8 +201,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Tamvada
+  first_name: [Suhas, R.]
 
   style: apa
   locale: en
@@ -259,7 +259,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
