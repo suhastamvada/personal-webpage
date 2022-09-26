@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *I have made this longer than usual because I have not had time to make it shorter.* - Blaise pascal
+subtitle:  - Blaise pascal
 
 profile:
   align: left
