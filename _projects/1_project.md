@@ -1,24 +1,13 @@
 ---
 layout: page
-title: project 1
+title: Thermal management of electronics
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Thermal management is the current bottleneck in the advancement of high-power integrated circuits (ICs), and phase change heat sinks are a promising  solution. With a unique structural configuration consisting of a  membrane positioned above the heater surface, membrane-based heat sinks (MHS) have thus far attained  heat fluxes of up to 2 kW/cm2 and HTC of up to 1.8 MW/m2K using water as the working fluid. This work reports the latest progress and performance evaluation of MHS for high flux thermal management.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

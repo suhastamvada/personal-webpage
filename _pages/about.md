@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <a href='#'>Random quote</a>
+subtitle:  <a href='#'> </a> I have made this longer than usual because I have not had time to make it shorter.
 
 profile:
   align: left
