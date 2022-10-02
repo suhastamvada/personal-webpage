@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: My teaching philosophy and experience.
 nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Philosophy
 
-Organize your courses by years, topics, or universities, however you like!
+Teaching is a very selfish act for me. I teach to learn. It is simple - I am put on the spot when I teach. I cannot cut corners. I am put in a position of responsibility which forces me to really understand what I am teaching and I cannot fake my way through. Which is also why I enjoy and dread it at the same time. I dread it because I because I am now exposed to probing questions which may not have come to me naturally. I enjoy it for the same reason. At the end of it, I come out never having to revisit any of those questions ever again. There is a subtle difference between knowing and understanding, and while answers engender knowing, it is questions which provoke understanding. My teaching (and learning) philosophy centers around this fundamental tenet.
+
