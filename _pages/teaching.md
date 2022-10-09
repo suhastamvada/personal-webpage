@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 permalink: /teaching/
 title: teaching
 description: My teaching philosophy and experience.
