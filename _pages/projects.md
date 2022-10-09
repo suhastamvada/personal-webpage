@@ -1,6 +1,7 @@
 ---
 layout: page
 title: projects
+published: false
 permalink: /projects/
 description: All my professional and personal projects.
 nav: true
