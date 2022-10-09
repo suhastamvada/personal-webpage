@@ -21,6 +21,6 @@ Welcome to my Homepage! I am a PhD student at the [Nanostructured Energy Systems
 
 Previously, I have investigated heat and mass transport at interfaces, phase change transport phenomena, and surface engineering. Although my work is primarily experimental, I enjoy exploring computational work in the domain of fluid dynamics and heat transfer. I am beginning to tinker with Machine Learning. 
 
-You can find [my CV]({{https://suhastamvada.com}}/assets/STamvada-resume.pdf) here.
+You can find [my CV]({{ site.url }}/assets/STamvada-resume.pdf) here.
 
 I am working on updating the site to include all my projects and teaching experience. Keep an eye out for this space!
