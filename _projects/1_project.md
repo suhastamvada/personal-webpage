@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thermal management of electronics
-description: a project with a background image
+description: COMSOL simulations of heat conduction
 img: assets/img/12.jpg
 importance: 1
 category: work
