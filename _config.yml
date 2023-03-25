@@ -204,7 +204,7 @@ scholar:
   last_name: Tamvada
   first_name: [Suhas, R.]
 
-  style: IEEETran
+  style: apa
   locale: en
 
   source: /_bibliography/
