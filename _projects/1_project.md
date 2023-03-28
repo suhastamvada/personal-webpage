@@ -2,7 +2,7 @@
 layout: page
 title: Thermal management of electronics
 description: COMSOL simulations of heat conduction
-img: assets/img/DC_resistance.pdf
+img: assets/img/Thermal_resistance.pdf
 importance: 1
 category: work
 ---
