@@ -6,11 +6,9 @@ subtitle:  <a href='#'> </a> I have made this longer than usual because I have n
 
 profile:
   align: left
-  image: prof_pic.png
+  image: prof_pic.jpg
   address: >
-    <p>103 MAE-A</p>
-    <p>939 Sweetwater Dr.</p>
-    <p>Gainesville, FL 12345</p>
+    <p>Gainesville, FL</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
