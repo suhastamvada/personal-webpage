@@ -5,7 +5,7 @@ published: true
 permalink: /projects/
 description: All my professional and personal projects.
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
