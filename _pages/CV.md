@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
+permalink: /cv/
 title: CV
-published: true
 nav: true
 nav_order: 1
-redirect: {{site.url}}/assets/pdf/STamvada_resume.pdf
+redirect_to: /assets/pdf/STamvada_resume.pdf
 ---
