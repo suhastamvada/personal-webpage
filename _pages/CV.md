@@ -1,5 +1,5 @@
 ---
-layout: redirected
+layout: page
 title: CV
 published: true
 nav: true
