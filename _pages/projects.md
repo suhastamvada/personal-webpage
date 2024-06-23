@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 published: true
 permalink: /projects/
 description: All my professional and personal projects.

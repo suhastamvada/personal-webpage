@@ -18,13 +18,13 @@ Postdoctoral Associate with expertise in mechanical design, thermal, and fluid s
 
 ## Education
 
-**Ph.D**, Mechanical Engineering, University of Florida, Gainesville, FL  <span style="float: right;">May 2024</span>  
+**Ph.D**, Mechanical Engineering, *University of Florida, Gainesville, FL*  <span style="float: right;">May 2024</span>  
 *Thesis:* Physics of Critical Heat Flux - Answers to Century Old Questions and New Discoveries
 
-**MS**, Mechanical Engineering, University of Illinois at Chicago, Chicago, IL <span style="float: right;">Jan 2020</span> 
+**MS**, Mechanical Engineering, *University of Illinois at Chicago, Chicago, IL* <span style="float: right;">Jan 2020</span>  
 *Thesis:* Partial Coalescence of Oil and Water: Spreading Behavior and Material Synthesis
 
-**B.Tech**, Mechanical Engineering, Jawaharlal Nehru Technological University, Hyderabad, India <span style="float: right;">May 2017</span>
+**B.Tech**, Mechanical Engineering, *Jawaharlal Nehru Technological University, Hyderabad, India* <span style="float: right;">May 2017</span>  
 *Senior Design:* Design and analysis of guide rods of an automotive head restraint
 
 ---

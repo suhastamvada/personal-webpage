@@ -6,12 +6,12 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Suhas
 middle_name: R.
 last_name: Tamvada
-email: suhas@suhastamvada.com
+email: t.suhasrao@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my homepage!
 footer_text: >
 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: jekyll, profile, resume, cv, portfolio, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
