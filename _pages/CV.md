@@ -64,7 +64,7 @@ Fluid mechanics I & II; Advanced transport phenomena; Phase-change heat transfer
 - Investigated freezing and rebound of drops on sublimating surfaces to aid the design of self-cleaning surfaces.
 - Leveraged principles of solid mechanics, heat transfer, and fluid mechanics to conduct experiments and formulate models that predict the freezing and rebound characteristics of drops.
 
-**Satyam Venture Engineering Services**, BMW Division <span style="float: right;">Hyderabad, India</span> 
+**Satyam Venture Engineering Services**, *BMW Division* <span style="float: right;">Hyderabad, India</span>  
 **Design Intern** <span style="float: right;">Nov 2016 - May 2017</span>
 - Created CAD models of guide rods of an automotive head restraint using design and GD&T specifications.
 - Performed structural analysis simulating a rear end collision on a BMW sedan.
@@ -83,7 +83,6 @@ Fluid mechanics I & II; Advanced transport phenomena; Phase-change heat transfer
 ## Selected Journal Publications
 
 (For a full list of publications, visit my [Google Scholar](https://scholar.google.com/citations?user=oQHSsp4AAAAJ&hl=en) page.)
-## Selected Journal Publications
 
 1.  Kulkarni, V., Lolla, V.Y., **Tamvada, S.**, Anand, S., *Bursting of underwater oil drops*. Physical Review Letters (2024).
 
