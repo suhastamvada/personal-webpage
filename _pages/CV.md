@@ -50,7 +50,7 @@ Fluid mechanics I & II; Advanced transport phenomena; Phase-change heat transfer
 - Achieved a 6× increase in CHF through flow stabilization and developed force balance based correlations.
 - Developed heat pipes for thermal management in low gravity environments and confined spaces.
 
-**Airity Technologies** <span style="float: right;">Redwood City, CA</span>  
+**Airity Technologies (Advanced Energy)** <span style="float: right;">Redwood City, CA</span>  
 **Mechanical Engineering Intern** <span style="float: right;">May 2023 - Aug 2023</span>
 - Led a team of 3 interns towards product development of a high voltage module, bringing technology to market.
 - Created bill of materials (BOM) for high-volume manufacturing and contributed towards patent applications.

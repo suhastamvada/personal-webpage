@@ -15,6 +15,6 @@ Thermal management is a critical bottleneck in the advancement of high-power int
 
 The primary goals of this project were to enhance cooling efficiency, reduce environmental impact, and develop practical implementation guidelines for data center integration. Our experiments demonstrated that MHS can significantly outperform traditional air cooling methods, achieving a 10x improvement in HTC. Additionally, we developed scalable manufacturing and packaging processes, characterized the reliability of heat sinks, thermal interface materials (TIMs), and membranes, and performed techno-economic analyses (TEA) to assess commercialization feasibility. These advancements contribute to reducing energy consumption and lowering the carbon footprint of data centers.
 
-<img src="assets/img/MHS_performance.jpg" alt="Membrane Heat Sink" width="400" height="300">
+<img src="../assets/img/MHS_performance.jpg" alt="Membrane Heat Sink" width="400" height="300">
 
 ---
