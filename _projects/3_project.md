@@ -2,7 +2,7 @@
 layout: page
 title: Emergence of oil drops during spills
 description: Oil drop interaction with water-air interfaces
-img: assets/img/CHF_S_curve.png
+img: assets/img/Drops_yin_yang.jpg
 importance: 2
 category: work
 ---
