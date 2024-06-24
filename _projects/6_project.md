@@ -2,7 +2,7 @@
 layout: page
 title: Cooling Power electronics
 description: A thermo-mechanical analysis
-img: assets/img/Dry_Ice_1_slide_Summary.jpg
+img: assets/img/PowerElectronics_simulation.jpg
 importance: 6
 category: work
 ---
