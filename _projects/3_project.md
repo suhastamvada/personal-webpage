@@ -3,7 +3,7 @@ layout: page
 title: Emergence of oil drops during spills
 description: Oil drop interaction with water-air interfaces
 img: assets/img/Drops_yin_yang.jpg
-importance: 2
+importance: 3
 category: work
 ---
 
@@ -23,6 +23,6 @@ This research advances our knowledge of oil spill dynamics, highlighting the com
 
 For more details on this project, please view our [publication](https://journals.aps.org/prl/accepted/80073Y9cX9a1ae81e7315fe6165f1f1a011bcf8e8).
 
-<img src="assets/img/1_slide_PRL_2024_Summary.jpg" alt="Underwater bursting drops" width="400" height="300">
+<img src="../assets/img/1_slide_PRL_2024_Summary.jpg" alt="Underwater bursting drops" width="400" height="300">
 
 ---

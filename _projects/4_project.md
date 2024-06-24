@@ -3,7 +3,7 @@ layout: page
 title: Drop spreading during coalescence
 description: Oil drop interaction with water-air interfaces
 img: assets/img/Drops_yin_yang.jpg
-importance: 2
+importance: 4
 category: work
 ---
 
@@ -23,7 +23,7 @@ To investigate this, we conducted methodical studies on 11 different n-alkanes, 
 
 Our research uncovered a previously undocumented regime of delayed coalescence. We applied a novel inertia-visco-capillary (I-V-C) scale to collapse all experimental coalescence data onto a single line. We observed that early-stage spreading of oil droplets can be either oscillatory or asymptotically reach a constant value, depending on the viscosity of the oil. This is in contrast to the well-documented monotonic, power-law late-time spreading behavior. These findings have broad applications, including emulsions and enhanced oil recovery.
 
-![Oil drop spreading during spills](assets/img/JCIS_spreading.jpg){: .responsive-image }
+![Oil drop spreading during spills](../assets/img/JCIS_spreading.jpg){: .responsive-image }
 
 The image above provides a visual summary of our findings, showing the stages of coalescence, regime mapping, and spreading behavior of oil droplets in various conditions. 
 
